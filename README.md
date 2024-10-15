@@ -1,10 +1,10 @@
 
-<!-- ### 欢迎来到前端嚣张农民GitHub主页 👋 -->
+<!-- ### Hi Rui Here 👋 -->
 
-<h1 align="center">欢迎来到前端嚣张农民GitHub主页👋</h1>
+<h1 align="center">Hi Rui Here👋</h1>
 
 <!--
-**linweiqian/linweiqian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DayLight109/DayLight109 is a special repository: its README.md will appear on your profile!
 
 Here are some ideas to get you started:
 
@@ -38,6 +38,7 @@ Here are some ideas to get you started:
   [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)](https://linweiqian.github.io/linweiqianBlog/)
   [![Linux](https://img.shields.io/badge/-Linux-F16061?logo=linux&logoColor=000)](https://linweiqian.github.io/linweiqianBlog/)
   [![Git Extensions](https://img.shields.io/badge/-Git%20Extensions-green?logo=git%20extensions&logoColor=DE3929)](https://linweiqian.github.io/linweiqianBlog/)
+  [![Kali Linux]([https://img.shields.io/badge/-Linux-F16061?logo=linux&logoColor=000)](https://linweiqian.github.io/linweiqianBlog/](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white))
 
 - ⚙️ I also use and work:
   [![Golang](https://img.shields.io/badge/-Golang-02569B?logo=go&logoColor=00ACC1)](https://linweiqian.github.io/linweiqianBlog/)
