@@ -61,6 +61,12 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smil
 
 <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linweiqian&layout=compact" height="137px" /></span><span><img height="137px" src="https://github-readme-stats.vercel.app/api?username=linweiqian&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </span>
 
+🔥 My Award:
+-----------------------
+2022 Liaoning Province Vocational College Skills Competition 🥉     -- CyberSecurity Competition Event 
+2023 Liaoning Province Vocational College Skills Competition 🥈     -- CyberSecurity Competition Event
+2024 Liaoning Province Vocational College Skills Competition 🥈     -- Blockchain Technology Application 
+2024 Worlds Vocational College Skills Competition 🥉                -- Blockchain Technology Application
 
 🔥 My projects:
 -----------------------
@@ -71,12 +77,6 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smil
 -----------------------
 <table><tr><td valign="top" width="33%">
 
-🔥 My medal:
------------------------
-2022 Liaoning Province Vocational College Skills Competition 🥉     -- CyberSecurity Competition Event 
-2023 Liaoning Province Vocational College Skills Competition 🥈     -- CyberSecurity Competition Event
-2024 Liaoning Province Vocational College Skills Competition 🥈     -- Blockchain Technology Application 
-2024 Worlds Vocational College Skills Competition 🥉                -- Blockchain Technology Application
 
   
 ### Frontend  
