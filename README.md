@@ -38,8 +38,7 @@ Here are some ideas to get you started:
   [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)](https://linweiqian.github.io/linweiqianBlog/)
   [![Linux](https://img.shields.io/badge/-Linux-F16061?logo=linux&logoColor=000)](https://linweiqian.github.io/linweiqianBlog/)
   [![Git Extensions](https://img.shields.io/badge/-Git%20Extensions-green?logo=git%20extensions&logoColor=DE3929)](https://linweiqian.github.io/linweiqianBlog/)
-  [![Kali Linux]([https://img.shields.io/badge/-Linux-F16061?logo=linux&logoColor=000)](https://linweiqian.github.io/linweiqianBlog/](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white))
-
+  [![Kali Linux](https://img.shields.io/badge/-Linux-F16061?logo=linux&logoColor=000)](https://linweiqian.github.io/linweiqianBlog/)
 - ⚙️ I also use and work:
   [![Golang](https://img.shields.io/badge/-Golang-02569B?logo=go&logoColor=00ACC1)](https://linweiqian.github.io/linweiqianBlog/)
   [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)](https://linweiqian.github.io/linweiqianBlog/)
