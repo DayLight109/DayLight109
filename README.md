@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 🔥 Current Working Platform:
 -----------------------
-2023.1-2023.9 LegendSense Platform
+2023.1-2023.9 LegendSense
 
 
 
