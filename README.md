@@ -71,6 +71,10 @@ Here are some ideas to get you started:
 
 2023.11-2024.12 Hanbot Never Die
 
+
+
+2025.10-2026.1 HP.inc IT HelpDesk/Frontend Engineer(intern)
+
 🔥 My Award:
 -----------------------
 2022 Liaoning Province Vocational College Skills Competition 🥉     -- CyberSecurity Competition Event 
