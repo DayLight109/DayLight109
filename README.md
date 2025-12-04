@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 
 🔥 My projects:
 -----------------------
-海冰项目：Still Working on it
+海冰项目：Done
 
 Hanbot Rui AIO - Keep Maintance
 LegendSense Rui AIO- stop Maintance 
