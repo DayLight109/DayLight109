@@ -62,24 +62,20 @@ Here are some ideas to get you started:
   [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)](https://linweiqian.github.io/linweiqianBlog/)
   [![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)](https://linweiqian.github.io/linweiqianBlog/)
 
-🔥 Current Working Platform:
+💼 Work Experience:
 -----------------------
 
-2023.1-2023.9 LegendSense
+**2025.10 - 2026.01** | HP Inc.  
+└─ IT HelpDesk / Frontend Engineer (Intern)
 
+**2023.11 - 2024.12** | Hanbot Never Die  
+└─ Developer
 
+**2023.01 - 2023.09** | LegendSense  
+└─ Developer
 
-
-2022.6-2024.5-BGX.GG
-
-
-
-
-2023.11-2024.12 Hanbot Never Die
-
-
-
-2025.10-2026.1 HP.inc IT HelpDesk/Frontend Engineer(intern)
+**2022.06 - 2024.05** | BGX.GG  
+└─ Developer
 
 🏆 Achievements & Honors:
 -----------------------
@@ -95,15 +91,6 @@ Here are some ideas to get you started:
 
 **2024** - World Vocational College Skills Competition 🥉  
 └─ Blockchain Technology Application
-
-
-🔥 My projects:
------------------------
-
-海冰项目：Done
-
-Hanbot Kiri AIO - Keep Maintance
-LegendSense Kiri AIO- stop Maintance 
 
 🔥 My Skill Set:
 -----------------------
