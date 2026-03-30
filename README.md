@@ -1,12 +1,12 @@
 <!-- ### Hi Kiri Here 👋 -->
 
 ```
-██╗  ██╗██╗██████╗ ██╗    ██╗  ██╗███████╗██████╗ ███████╗
-██║ ██╔╝██║██╔══██╗██║    ██║  ██║██╔════╝██╔══██╗██╔════╝
-█████╔╝ ██║██████╔╝██║    ███████║█████╗  ██████╔╝█████╗  
-██╔═██╗ ██║██╔══██╗██║    ██╔══██║██╔══╝  ██╔══██╗██╔══╝  
-██║  ██╗██║██║  ██║██║    ██║  ██║███████╗██║  ██║███████╗
-╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝    ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝
+██╗  ██╗██╗██████╗ ██╗    ██╗  ██╗███████╗██████╗ ███████╗    👻
+██║ ██╔╝██║██╔══██╗██║    ██║  ██║██╔════╝██╔══██╗██╔════╝      
+█████╔╝ ██║██████╔╝██║    ███████║█████╗  ██████╔╝█████╗        
+██╔═██╗ ██║██╔══██╗██║    ██╔══██║██╔══╝  ██╔══██╗██╔══╝        
+██║  ██╗██║██║  ██║██║    ██║  ██║███████╗██║  ██║███████╗      
+╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝    ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝      
 ```
 
 <h3 align="center">👋 Full Stack Developer & DevOps Engineer 👋</h3>
@@ -81,16 +81,20 @@ Here are some ideas to get you started:
 
 2025.10-2026.1 HP.inc IT HelpDesk/Frontend Engineer(intern)
 
-🔥 My Award:
+🏆 Achievements & Honors:
 -----------------------
 
-2022 Liaoning Province Vocational College Skills Competition 🥉     -- CyberSecurity Competition Event 
+**2022** - Liaoning Province Vocational College Skills Competition 🥉  
+└─ CyberSecurity Competition Event
 
-2023 Liaoning Province Vocational College Skills Competition 🥈     -- CyberSecurity Competition Event
+**2023** - Liaoning Province Vocational College Skills Competition 🥈  
+└─ CyberSecurity Competition Event
 
-2024 Liaoning Province Vocational College Skills Competition 🥈     -- Blockchain Technology Application 
+**2024** - Liaoning Province Vocational College Skills Competition 🥈  
+└─ Blockchain Technology Application
 
-2024 Worlds Vocational College Skills Competition 🥉                -- Blockchain Technology Application
+**2024** - World Vocational College Skills Competition 🥉  
+└─ Blockchain Technology Application
 
 
 🔥 My projects:
