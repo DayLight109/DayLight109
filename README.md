@@ -1,10 +1,18 @@
+<!-- ### Hi Kiri Here 👋 -->
 
-<!-- ### Hi Rui Here 👋 -->
+```
+██╗  ██╗██╗██████╗ ██╗    ██╗  ██╗███████╗██████╗ ███████╗
+██║ ██╔╝██║██╔══██╗██║    ██║  ██║██╔════╝██╔══██╗██╔════╝
+█████╔╝ ██║██████╔╝██║    ███████║█████╗  ██████╔╝█████╗  
+██╔═██╗ ██║██╔══██╗██║    ██╔══██║██╔══╝  ██╔══██╗██╔══╝  
+██║  ██╗██║██║  ██║██║    ██║  ██║███████╗██║  ██║███████╗
+╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝    ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝
+```
 
-<h1 align="center">Hi Rui Here👋</h1>
+<h3 align="center">👋 Full Stack Developer & DevOps Engineer 👋</h3>
 
 <!--
-DayLight109/DayLight109 is a special repository: its README.md will appear on your profile!
+Kiri's profile repository: its README.md will appear on your profile!
 
 Here are some ideas to get you started:
 
@@ -16,19 +24,21 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linweiqian&show_icons=true&theme=radical) -->
+  -->
+  <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linweiqian&show_icons=true&theme=radical) -->
 - 🚀 I use daily:
-  [![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)](https://linweiqian.github.io/linweiqianBlog/)
-  [![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)](https://linweiqian.github.io/linweiqianBlog/)
-  [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)](https://linweiqian.github.io/linweiqianBlog/)
-  [![Shell](https://img.shields.io/badge/-Shell-4EC422?logo=Shell&logoColor=FF7043)](https://linweiqian.github.io/linweiqianBlog/)
-  [![Nginx](https://img.shields.io/badge/-Nginx-F6C915?logo=nginx&logoColor=029137)](https://linweiqian.github.io/linweiqianBlog/)
-  [![Webpack](https://img.shields.io/badge/-webpack-2B3A42?logo=webpack&logoColor=75AFCC)](https://linweiqian.github.io/linweiqianBlog/)
-  [![NPM](https://img.shields.io/badge/-NPM-2875E3?logo=npm&logoColor=029137)](https://linweiqian.github.io/linweiqianBlog/)
-  [![Postman](https://img.shields.io/badge/-Postman-7A1FA2?logo=postman&logoColor=FC8019)](https://linweiqian.github.io/linweiqianBlog/)
-  [![Docker](https://img.shields.io/badge/docker-20232A?logo=docker&logoColor=61DAFB)](https://linweiqian.github.io/linweiqianBlog/)
-  [![Jenkins](https://img.shields.io/badge/-Jenkins-F6C915?logo=jenkins&logoColor=F16061)](https://linweiqian.github.io/linweiqianBlog/)
+  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000000)](https://github.com/Kiri)
+  [![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://github.com/Kiri)
+  [![Vue](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)](https://github.com/Kiri)
+  [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white)](https://github.com/Kiri)
+  [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://github.com/Kiri)
+  [![Shell](https://img.shields.io/badge/Shell-4EAA25?logo=gnu-bash&logoColor=white)](https://github.com/Kiri)
+  [![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)](https://github.com/Kiri)
+  [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)](https://github.com/Kiri)
+  [![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white)](https://github.com/Kiri)
+  [![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)](https://github.com/Kiri)
+  [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://github.com/Kiri)
+  [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)](https://github.com/Kiri)
 
 - 💻 I work using:
   [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)](https://linweiqian.github.io/linweiqianBlog/)
@@ -52,13 +62,9 @@ Here are some ideas to get you started:
   [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)](https://linweiqian.github.io/linweiqianBlog/)
   [![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)](https://linweiqian.github.io/linweiqianBlog/)
 
-
-
-
-<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linweiqian&layout=compact" height="137px" /></span><span><img height="137px" src="https://github-readme-stats.vercel.app/api?username=linweiqian&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </span>
-
 🔥 Current Working Platform:
 -----------------------
+
 2023.1-2023.9 LegendSense
 
 
@@ -77,6 +83,7 @@ Here are some ideas to get you started:
 
 🔥 My Award:
 -----------------------
+
 2022 Liaoning Province Vocational College Skills Competition 🥉     -- CyberSecurity Competition Event 
 
 2023 Liaoning Province Vocational College Skills Competition 🥈     -- CyberSecurity Competition Event
@@ -88,18 +95,22 @@ Here are some ideas to get you started:
 
 🔥 My projects:
 -----------------------
+
 海冰项目：Done
 
-Hanbot Rui AIO - Keep Maintance
-LegendSense Rui AIO- stop Maintance 
+Hanbot Kiri AIO - Keep Maintance
+LegendSense Kiri AIO- stop Maintance 
 
 🔥 My Skill Set:
 -----------------------
+
 <table><tr><td valign="top" width="33%">
 
 
-  
+
+
 ### Frontend  
+
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -112,11 +123,13 @@ LegendSense Rui AIO- stop Maintance
 <a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
 </div>
 
+
 </td><td valign="top" width="33%">
 
 
 
 ### Backend  
+
 <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -133,11 +146,13 @@ LegendSense Rui AIO- stop Maintance
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
 
+
 </td><td valign="top" width="33%">
 
 
 
 ### DevOps  
+
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
@@ -147,14 +162,13 @@ LegendSense Rui AIO- stop Maintance
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
 
+
 </td></tr></table>  
 
 <br/>  
 
-
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=linweiqian" /> </div>
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=linweiqian" /> </div>
 <!--
+
 <div align="center">
   <a href="https://raw.githubusercontent.com/all-smile/nav/master/static/images/buymeacoffee.jpg" target="_blank" style="display: inline-block;">
     <img
@@ -163,4 +177,5 @@ LegendSense Rui AIO- stop Maintance
     />
   </a>
 </div>
+
 -->
