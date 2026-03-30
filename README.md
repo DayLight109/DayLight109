@@ -11,59 +11,57 @@
 
 <h3 align="center">👋 Full Stack Developer & DevOps Engineer 👋</h3>
 
-<!--
-Kiri's profile repository: its README.md will appear on your profile!
+---
 
-Here are some ideas to get you started:
+## 🤖 AI Coding Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
-  <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linweiqian&show_icons=true&theme=radical) -->
-- 🚀 I use daily:
-  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000000)](https://github.com/Kiri)
-  [![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://github.com/Kiri)
-  [![Vue](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)](https://github.com/Kiri)
-  [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white)](https://github.com/Kiri)
-  [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://github.com/Kiri)
-  [![Shell](https://img.shields.io/badge/Shell-4EAA25?logo=gnu-bash&logoColor=white)](https://github.com/Kiri)
-  [![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)](https://github.com/Kiri)
-  [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)](https://github.com/Kiri)
-  [![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white)](https://github.com/Kiri)
-  [![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)](https://github.com/Kiri)
-  [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://github.com/Kiri)
-  [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)](https://github.com/Kiri)
+[![Claude Code](https://img.shields.io/badge/Claude_Code-8B5CF6?logo=anthropic&logoColor=white)](https://github.com/DayLight109)
+[![Codex](https://img.shields.io/badge/Codex-412991?logo=openai&logoColor=white)](https://github.com/DayLight109)
+[![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white)](https://github.com/DayLight109)
+[![Kiro](https://img.shields.io/badge/Kiro-FF6B6B?logo=robot&logoColor=white)](https://github.com/DayLight109)
 
-- 💻 I work using:
-  [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)](https://linweiqian.github.io/linweiqianBlog/)
-  [![GoLand](https://img.shields.io/badge/-GoLand-000?logo=goland&logoColor=00ACC1)](https://linweiqian.github.io/linweiqianBlog/)
-  [![Gitee](https://img.shields.io/badge/-Gitee-A80025?logo=gitee&logoColor=F16061)](https://linweiqian.github.io/linweiqianBlog/)
-  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://linweiqian.github.io/linweiqianBlog/)
-  [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)](https://linweiqian.github.io/linweiqianBlog/)
-  [![Linux](https://img.shields.io/badge/-Linux-F16061?logo=linux&logoColor=000)](https://linweiqian.github.io/linweiqianBlog/)
-  [![Git Extensions](https://img.shields.io/badge/-Git%20Extensions-green?logo=git%20extensions&logoColor=DE3929)](https://linweiqian.github.io/linweiqianBlog/)
-  [![Kali Linux](https://img.shields.io/badge/-Linux-F16061?logo=linux&logoColor=000)](https://linweiqian.github.io/linweiqianBlog/)
-- ⚙️ I also use and work:
-  [![Golang](https://img.shields.io/badge/-Golang-02569B?logo=go&logoColor=00ACC1)](https://linweiqian.github.io/linweiqianBlog/)
-  [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)](https://linweiqian.github.io/linweiqianBlog/)
-  [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)](https://linweiqian.github.io/linweiqianBlog/)
-  [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)](https://linweiqian.github.io/linweiqianBlog/)
-  [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)](https://linweiqian.github.io/linweiqianBlog/)
+## 🚀 Tech Stack:
 
-- 🌱 I’m currently learning:
-  [![V8](https://img.shields.io/badge/-V8-3DDC84?logo=v8&logoColor=4788F4)](https://linweiqian.github.io/linweiqianBlog/)
-  [![Golang](https://img.shields.io/badge/-Golang-02569B?logo=go&logoColor=00ACC1)](https://linweiqian.github.io/linweiqianBlog/)
-  [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)](https://linweiqian.github.io/linweiqianBlog/)
-  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)](https://linweiqian.github.io/linweiqianBlog/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000000)](https://github.com/DayLight109)
+[![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://github.com/DayLight109)
+[![Vue](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)](https://github.com/DayLight109)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white)](https://github.com/DayLight109)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://github.com/DayLight109)
+[![Shell](https://img.shields.io/badge/Shell-4EAA25?logo=gnu-bash&logoColor=white)](https://github.com/DayLight109)
+[![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)](https://github.com/DayLight109)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)](https://github.com/DayLight109)
+[![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white)](https://github.com/DayLight109)
+[![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)](https://github.com/DayLight109)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://github.com/DayLight109)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)](https://github.com/DayLight109)
 
-💼 Work Experience:
------------------------
+## 💻 Development Tools:
+
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)](https://github.com/DayLight109)
+[![GoLand](https://img.shields.io/badge/GoLand-000000?logo=goland&logoColor=white)](https://github.com/DayLight109)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/DayLight109)
+[![GitLab](https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white)](https://github.com/DayLight109)
+[![Gitee](https://img.shields.io/badge/Gitee-C71D23?logo=gitee&logoColor=white)](https://github.com/DayLight109)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://github.com/DayLight109)
+
+## ⚙️ Other Technologies:
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)](https://github.com/DayLight109)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://github.com/DayLight109)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://github.com/DayLight109)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://github.com/DayLight109)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](https://github.com/DayLight109)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](https://github.com/DayLight109)
+
+## 🌱 Currently Learning:
+
+[![Golang](https://img.shields.io/badge/Golang-00ADD8?logo=go&logoColor=white)](https://github.com/DayLight109)
+[![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)](https://github.com/DayLight109)
+[![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)](https://github.com/DayLight109)
+
+---
+
+## 💼 Work Experience:
 
 **2025.10 - 2026.01** | HP Inc.  
 └─ IT HelpDesk / Frontend Engineer (Intern)
@@ -77,8 +75,9 @@ Here are some ideas to get you started:
 **2022.06 - 2024.05** | BGX.GG  
 └─ Developer
 
-🏆 Achievements & Honors:
------------------------
+---
+
+## 🏆 Achievements & Honors:
 
 **2022** - Liaoning Province Vocational College Skills Competition 🥉  
 └─ CyberSecurity Competition Event
@@ -92,12 +91,11 @@ Here are some ideas to get you started:
 **2024** - World Vocational College Skills Competition 🥉  
 └─ Blockchain Technology Application
 
-🔥 My Skill Set:
------------------------
+---
+
+## 🔥 Skill Set:
 
 <table><tr><td valign="top" width="33%">
-
-
 
 
 ### Frontend  
@@ -116,8 +114,6 @@ Here are some ideas to get you started:
 
 
 </td><td valign="top" width="33%">
-
-
 
 ### Backend  
 
@@ -140,8 +136,6 @@ Here are some ideas to get you started:
 
 </td><td valign="top" width="33%">
 
-
-
 ### DevOps  
 
 <div align="center">  
@@ -154,19 +148,4 @@ Here are some ideas to get you started:
 </div>
 
 
-</td></tr></table>  
-
-<br/>  
-
-<!--
-
-<div align="center">
-  <a href="https://raw.githubusercontent.com/all-smile/nav/master/static/images/buymeacoffee.jpg" target="_blank" style="display: inline-block;">
-    <img
-        src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square"
-        align="center"
-    />
-  </a>
-</div>
-
--->
+</td></tr></table>
